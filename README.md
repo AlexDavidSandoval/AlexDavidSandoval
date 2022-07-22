@@ -54,13 +54,12 @@
     
 ---
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexDavidSandoval&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    " 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexDavidSandoval&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alex&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
      /></p>
 
 <br>
