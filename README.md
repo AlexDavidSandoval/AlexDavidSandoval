@@ -7,21 +7,13 @@
 
 <br>
 
-<p><img align="right" src="" /></p>
+<p><img align="right" width="500px" heigth="500px" src="https://crazydevelopers.in/wp-content/uploads/2021/09/cms-website-development-service.gif" /></p>
 
 - 🌱 I’m currently learning Database, Networks, WEB Programming and Desktop
 
 - 📫 How to reach me **sandovalex2001.as@gmail.com**
 
 <br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/alex-david-sandoval/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="30" width="40" /></a> 
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -53,7 +45,13 @@
       alt="react" width="40" height="40" /> </a></p>
 
 <br>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/alex-david-sandoval/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30" width="40" /></a> 
+<br>
+    
 ---
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexDavidSandoval&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
