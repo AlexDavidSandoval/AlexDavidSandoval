@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDavidSandoval&langs_count=10&layout=compact&theme=omni)
+
+<br>
+
+![Isis's github stats](https://github-readme-stats.vercel.app/api?username=AlexDavidSandoval&hide=contribs,issues&count_private=true&show_icons=true&theme=omni)
+
+<br>
